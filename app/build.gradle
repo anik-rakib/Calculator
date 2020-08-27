@@ -32,7 +32,6 @@ dependencies {
 
     // for Expression
     implementation 'net.objecthunter:exp4j:0.4.8'
-    // for textAnimation
-    implementation 'com.tomer:fadingtextview:2.5'
+
 
 }
