@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string-array name="text">
+    <item>Like the video</item>
+    <item>Subscribe to the channel</item>
+    </string-array>
+</resources>
